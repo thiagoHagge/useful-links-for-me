@@ -52,3 +52,31 @@ echo '<script>alert("Updated successfully!
 ")</script>';
 echo '<meta http-equiv="refresh" content="0;URL=\'/\'" />';
 ```
+
+- Array weekDays and month
+
+```js
+const weekDays = [
+  'Sun',
+  'Mon',
+  'Tue',
+  'Wed',
+  'Thu',
+  'Fri',
+  'Sat',
+]
+const month = [
+  'Jan',
+  'Feb',
+  'Mar',
+  'Apr',
+  'May',
+  'Jun',
+  'Jul',
+  'Aug',
+  'Sep',
+  'Oct',
+  'Nov',
+  'Dec'
+]
+```
