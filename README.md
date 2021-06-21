@@ -80,3 +80,16 @@ const month = [
   'Dec'
 ]
 ```
+
+- JS code to get Array of hours
+
+```js
+let listHour = []
+for(var i = 0; i < 24; i++) {
+    let hour = String(i).length == 1 ? '0' + String(i) : String(i)
+    for(var j = 0; j < 6; j++) {
+        let minute = String(j) + '0'
+        listHour.push(hour + ':' + minute)
+    }
+}
+```
