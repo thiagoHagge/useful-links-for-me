@@ -5,7 +5,6 @@ Just a few links I always need, maybe they can help you, maybe not.
 - [Markdown Helper repository](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#tools)
 - [Git Tutoria](https://github.com/rafaballerini/GitTutorial)
 - Font Awesome 5
-
 ```html
 <!-- END OF THE BODY -->
 <script
@@ -15,7 +14,6 @@ Just a few links I always need, maybe they can help you, maybe not.
 ```
 
 - Feather Icons
-
 ```html
 <!-- HEAD -->
 <script src="https://unpkg.com/feather-icons"></script>
@@ -27,7 +25,6 @@ Just a few links I always need, maybe they can help you, maybe not.
 ```
 
 - Bootstrap 5
-
 ```html
 <!-- HEAD -->
 <link
@@ -46,7 +43,6 @@ Just a few links I always need, maybe they can help you, maybe not.
 ```
 
 - Success alert and redirect with meta tags in php
-
 ```php
 echo '<script>alert("Updated successfully!
 ")</script>';
@@ -54,7 +50,6 @@ echo '<meta http-equiv="refresh" content="0;URL=\'/\'" />';
 ```
 
 - Array weekDays and month
-
 ```js
 const weekDays = [
   'Sun',
@@ -82,7 +77,6 @@ const month = [
 ```
 
 - JS code to get Array of hours
-
 ```js
 let listHour = []
 for(var i = 0; i < 24; i++) {
@@ -92,4 +86,11 @@ for(var i = 0; i < 24; i++) {
         listHour.push(hour + ':' + minute)
     }
 }
+```
+
+- jQuery and jQuery Mask
+```html
+<!-- END OF THE BODY -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js" integrity="sha512-pHVGpX7F/27yZ0ISY+VVjyULApbDlD0/X0rgGbTqCE7WFW5MezNTWG/dnhtbBuICzsd0WQPgpE4REBLv+UqChw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 ```
