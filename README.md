@@ -3,7 +3,7 @@
 Just a few links I always need, maybe they can help you, maybe not.
 
 - [Markdown Helper repository](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#tools)
-- [Git Tutoria](https://github.com/rafaballerini/GitTutorial)
+- [Git Tutorial](https://github.com/rafaballerini/GitTutorial)
 - Font Awesome 5
 ```html
 <!-- END OF THE BODY -->
